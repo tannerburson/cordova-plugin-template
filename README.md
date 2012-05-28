@@ -20,4 +20,5 @@ Using the Template
 Building your project
 ---------------------
 
+Add a local.settings file to the android/ directory that contains an sdk.dir that points to your Android SDK directory.
 Run `ant dist`, that will create a dist directory with a jar, and a js file of your plugin.
